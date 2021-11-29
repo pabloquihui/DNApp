@@ -1,0 +1,2265 @@
+Palindrome AACTTTAAAA TTTTAAAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTTAAAAT ATTTTAAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCTGTGTGG CCACACAGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTGTGTGGC GCCACACAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATGCTTA TAAGCATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCATCAGCA TGCTGATGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAAGGTAAG CTTACCTTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGGTAAGA TCTTACCTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTTGCCTGT ACAGGCAAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TACGTGGCTT AAGCCACGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACGTGGCTTT AAAGCCACGT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTCAACATCT AGATGTTGAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACATCTTA TAAGATGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACATCTTAA TTAAGATGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCACTTGTGG CCACAAGTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAGTTGAA TTCAACTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGTTGAAA TTTCAACTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome GCCTCAACTT AAGTTGAGGC
+ from Wuhan Reference is in Delta Variant
+Palindrome TCGAAGGCAT ATGCCTTCGA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCAAGGTTCT AGAACCTTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAGGTTCTT AAGAACCTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACGGTAATA TATTACCGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAGTCATT AATGACTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCATGCGTGA TCACGCATGA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTCTGTGG CCACAGAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCCTCTTGA TCAAGAGGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGAGTGCAT ATGCACTCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTGCATTAA TTAATGCACT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATTAAAG CTTTAATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome CATTAAAGAC GTCTTTAATG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAGCACGTG CACGTGCTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome GAACAACTGG CCAGTTGTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTGCTGCC GGCAGCAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGAAATT AATTTCAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGAAATTA TAATTTCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTAAATTG CAATTTAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTAAATTGG CCAATTTAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAATTGGCA TGCCAATTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome GACACCTTCA TGAAGGTGTC
+ from Wuhan Reference is in Delta Variant
+Palindrome GAATGTCCAA TTGGACATTC
+ from Wuhan Reference is in Delta Variant
+Palindrome CCATAATCAA TTGATTATGG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAAGCTTG CAAGCTTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGCTTGA TCAAGCTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TATCCAGTTG CAACTGGATA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTGGCACT AGTGCCACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAAAGAAGG CCTTCTTTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CACTACTTGT ACAAGTAGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTTAAAAT ATTTTAACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTAAAATT AATTTTAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAATTTATT AATAAATTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTCCAGCA TGCTGGACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTCCAGCAT ATGCTGGACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTCACAATT AATTGTGACA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTGAGCAT ATGCTCAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATACCATAA TTATGGTATT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATGAATCTG CAGATTCATT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCATTCTT AAGAATGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCATTCTTC GAAGAATGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CACTATTGCC GGCAATAGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TACAGGTGTT AACACCTGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGACAACCTT AAGGTTGTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAAAAGAGA TCTCTTTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAAGTCAAC GTTGACTTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCAATATT AATATTGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTAATGAAG CTTCATTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGTGGAAA TTTCCACAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAATTGTTG CAACAATTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome GCTAAAAAAG CTTTTTTAGC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAAGGTGC GCACCTTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAATCAAT ATTGATTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATCAGAG CTCTGATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome CGTGTTTTAC GTAAAACACG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGGAATTTCA TGAAATTCCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCACAGTATT AATACTGTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAGGAAGGT ACCTTCCTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTGTCACC GGTGACAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTCAGACA TGTCTGAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTAAGCTT AAGCTTAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCTTGTAAA TTTACAAGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAAATTTTT AAAAATTTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAAACTTAA TTAAGTTTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAACTTAAA TTTAAGTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACTTAAAG CTTTAAGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGAATTTAG CTAAATTCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAGGTGAA TTCACCTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAAGTGTG CACACTTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAAGTGTGT ACACACTTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGAAATTAT ATAATTTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTGTTAACA TGTTAACACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAGGAAGTTG CAACTTCCTC
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGAAGTTGT ACAACTTCCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGATTTACA TGTAAATCAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATTTACAA TTGTAAATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACCATTA TAATGGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCATTAG CTAATGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTCCATTGGT ACCAATGGAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TCCATTGGTT AACCAATGGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCATTGGTTG CAACCAATGG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCAAAGACA TGTCTTTGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGTACTG CAGTACTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGTACTGT ACAGTACTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACAATACC GGTATTGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACAATACCT AGGTATTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAGTGCAA TTGCACTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACAAGAGT ACTCTTGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TACAAGAGTG CACTCTTGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGTACTTA TAAGTACTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATACAGTTGA TCAACTGTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACAGTTGAA TTCAACTGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCTGTCATA TATGACAGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCTGTCATAA TTATGACAGC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTAGATGA TCATCTAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTTAAATTG CAATTTAAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TCACATATGT ACATATGTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGTATTGT ACAATACATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTGTTCTTT AAAGAACAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GATGAAGAAG CTTCTTCATC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAAGAAGAA TTCTTCTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGAAGAAG CTTCTTCTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTGTGAAGA TCTTCACAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGAAGAGT ACTCTTCTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome CCATCAACTC GAGTTGATGG
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGGTACTG CAGTACCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome GGTAAACCTT AAGGTTTACC
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAAACCTTT AAAGGTTTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome GCTCTTCAAC GTTGAAGAGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCTGAAG CTTCAGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCTGAAGA TCTTCAGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTGAAGAA TTCTTCAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTGAAGAAG CTTCTTCAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGAAGAAGA TCTTCTTCAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAGAGCAA TTGCTCTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGAGCAAG CTTGCTCTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAGATGATG CATCATCTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGATGATGA TCATCATCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGATGATGAT ATCATCATCT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAACTGTTG CAACAGTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGACAACTAC GTAGTTGTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCAAACAAT ATTGTTTGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCAAACAATT AATTGTTTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTGTTGAG CTCAACAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTGTTCAG CTGAACAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGTTCAGA TCTGAACAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTTCAGAC GTCTGAACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGTGAATA TATTCACTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTGAATAG CTATTCACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTAAAAATG CATTTTTAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAAAATGC GCATTTTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTGGAAGAA TTCTTCCACA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGGTAAA TTTACCTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGGTAAAA TTTTACCTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAACCAAC GTTGGTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAACCAACA TGTTGGTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCAGCCAAT ATTGGCTGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCCAATGTTT AAACATTGGC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTGAATC GATTCAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTGAATCT AGATTCAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGAATCTG CAGATTCAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGAATCTGA TCAGATTCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTTCATGTT AACATGAAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTCATGTTG CAACATGAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAATGTTAA TTAACATTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGACATTCA TGAATGTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGACATTCAA TTGAATGTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GACATTCAAC GTTGAATGTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGGTGCTGAC GTCAGCACCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCTTTAAGA TCTTAAAGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTTGTGTA TACACAAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTTGTGTAG CTACACAAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTGTAGAT ATCTACACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTGAAAAGC GCTTTTCACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGAAAAGCA TGCTTTTCAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAAAAGCAA TTGCTTTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTGAACA TGTTCAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTGAACAA TTGTTCAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACAAAAGAT ATCTTTTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAGCCATTT AAATGGCTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCATTTATAA TTATAAATGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CATTTATAAC GTTATAAATG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAACCTTCA TGAAGGTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACCTTCAG CTGAAGGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCTTCAGT ACTGAAGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTTCAGTT AACTGAAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCAGTTGAA TTCAACTGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AACAGAGAAA TTTCTCTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAAACAAG CTTGTTTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAAACAAGA TCTTGTTTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAAGCTTGT ACAAGCTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGCTTGTG CACAAGCTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGCTTGTGT ACACAAGCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCTTGTGTT AACACAAGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGAAGAAGT ACTTCTTCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAAGAAGTT AACTTCTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGAAGTTA TAACTTCTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGAAGTTAC GTAACTTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAGTTACA TGTAACTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACAACTCTG CAGAGTTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTCTGGAA TTCCAGAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAACTAAG CTTAGTTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAACTAAGT ACTTAGTTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome CACAGAAAAC GTTTTCTGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAGAAAACT AGTTTTCTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGTGACATT AATGTCACTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTCTTAAA TTTAAGAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTAAAGAAA TTTCTTTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGAGGGTGT ACACCCTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTAACTGC GCAGTTAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome GGGTTTAAAT ATTTAAACCC
+ from Wuhan Reference is in Delta Variant
+Palindrome ACACTGTAGA TCTACAGTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CACTGTAGAG CTCTACAGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGACAGTG CACTGTCTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTGTAAAA TTTTACACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGTAAAAGT ACTTTTACAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTAAAAGTG CACTTTTACA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCATCTATT AATAGATGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGAAATTCT AGAATTTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAATTCTTGG CCAAGAATTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTCTTGGAA TTCCAAGAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAATGCTT AAGCATTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TATTAAAATA TATTTTAATA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAGGGTGTG CACACCCTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTATCAAC GTTGATAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTATCAACA TGTTGATAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACACACTTAA TTAAGTGTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTGGCTATG CATAGCCAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGGCTATGT ACATAGCCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTAACACAT ATGTGTTACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTCTCAAAG CTTTGAGAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGCTACAGT ACTGTAGCTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCTACAGTT AACTGTAGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGTTTCTTC GAAGAAACAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTTCTTCA TGAAGAAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAACACCT AGGTGTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTATTGAA TTCAATAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTATTGAAA TTTCAATAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGGACAATC GATTGTCCAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGTATAGAA TTCTATACCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGAATTTCT AGAAATTCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome GATAAAAGTG CACTTTTATC
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTAGATGGT ACCATCTAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAGATGGTG CACCATCTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGATGGTGAA TTCACCATCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTTACAAC GTTGTAAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACATTAA TTAATGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACATTAAC GTTAATGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACAGTTTG CAAACTGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome GTCCAACTTA TAAGTTGGAC
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCTGATGTT AACATCAGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACCTCATA TATGAGGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCTCATAA TTATGAGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGTAAAACA TGTTTTACCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GGTAAAACAT ATGTTTTACC
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAACATTT AAATGTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAACATTTT AAAATGTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACATTTTA TAAAATGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGTGGAA TTCCACTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGTGGAAA TTTCCACTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGGAAATAC GTATTTCCAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CCACAAGTTA TAACTTGTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAACTTCTAT ATAGAAGTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATTAAATGG CCATTTAATA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGTTATCTT AAGATAACAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATTGTTA TAACAATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCATTGTTAA TTAACAATGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CATTGTTAAC GTTAACAATG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTGTTAACA TGTTAACAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTATTACAG CTGTAATAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTTTTGTG CACAAAAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTTTGTGC GCACAAAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTTGTGCA TGCACAAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGTGCAC GTGCACAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGTAATAAG CTTATTACAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTAATAAGA TCTTATTACA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAAGACAGT ACTGTCTTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTAGAGAAA TTTCTCTAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTACTTGT ACAAGTAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACATGCCAA TTGGCATGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAATTTAGAT ATCTAAATTG
+ from Wuhan Reference is in Delta Variant
+Palindrome GAGTCTTGAA TTCAAGACTC
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGGTGTGTA TACACACCAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGGTGTGTAA TTACACACCA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTTCTTAT ATAAGAAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTCTTATG CATAAGAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAACAATTT AAATTGTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome AACAATTTAA TTAAATTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAATTTAAG CTTAAATTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAATTTAAGA TCTTAAATTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACAAGCTA TAGCTTGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAAGCTACA TGTAGCTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAGCTACAA TTGTAGCTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TACAACAGGA TCCTGTTGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTCACCTTT AAAGGTGACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTCACCTTTT AAAAGGTGAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATGTCAGC GCTGACATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GATGTCAGCA TGCTGACATC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTCAGCAC GTGCTGACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGCACCACC GGTGGTGCTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCACCACCT AGGTGGTGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTTGTGCT AGCACAAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTGTGCTA TAGCACAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACACTGGTAA TTACCAGTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACCAGTGTG CACACTGGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCACTATAAA TTTATAGTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CACTATAAAC GTTTATAGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTATAAACA TGTTTATAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAACTTCTA TAGAAGTTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCTAAAGAA TTCTTTAGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTACAAAGT ACTTTGTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGTCCTCA TGAGGACTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGTCCTATT AATAGGACCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTTTCTACA TGTAGAAAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTCTACAA TTGTAGAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTCTACAAA TTTGTAGAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATAAATTG CAATTTATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTAAGTTGG CCAACTTAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCATATC GATATGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCATATCC GGATATGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCATATCCA TGGATATGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCATATCCAA TTGGATATGG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTATGTGA TCACATACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTATGTGAT ATCACATACA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCAAATTTG CAAATTTGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TCAAATTTGC GCAAATTTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTACATTTT AAAATGTAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGACTTAAA TTTAAGTCAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTGGTGGC GCCACCACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTGGTGGCT AGCCACCACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GGCTATTGAT ATCAATAGCC
+ from Wuhan Reference is in Delta Variant
+Palindrome GCTATTGATT AATCAATAGC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATAAACAC GTGTTTATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATAAACACT AGTGTTTATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAAACACTA TAGTGTTTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACACTACA TGTAGTGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACATAAACCT AGGTTTATGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAATAAAGC GCTTTATTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TATAAACCAA TTGGTTTATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAAACCAAA TTTGGTTTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCACAAAAC GTTTTGTGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCAGTTGAAA TTTCAACTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGTTGAAAC GTTTCAACTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAAACATCA TGATGTTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GATGTACTGA TCAGTACATC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTACTGAA TTCAGTACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTGAAGTC GACTTCAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTGAAGTCA TGACTTCAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTAAAACCA TGGTTTTAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTGGAAAAT ATTTTCCACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGTTGTAG CTACAACTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTGTAGG CCTACAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAGGAGACA TGTCTCCTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAAAAATT AATTTTTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACCCTTGC GCAAGGGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTGTCCCTT AAGGGACACT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTATAGCTAA TTAGCTATAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAGCTAATT AATTAGCTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTAACAAAG CTTTGTTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGTTGTTA TAACAACTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAACATAGT ACTATGTTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGTTACACG CGTGTAACTA
+ from Wuhan Reference is in Delta Variant
+Palindrome GGTGTTTAAA TTTAAACACC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAATTGTGTA TACACAATTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTGTGTAC GTACACAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTACAAAT ATTTGTACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGCATCTAT ATAGATGCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCATCTATGC GCATAGATGC
+ from Wuhan Reference is in Delta Variant
+Palindrome TCATTTAATT AATTAAATGA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTTCTAA TTAGAAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTTCTAAA TTTAGAAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTCTAAAC GTTTAGAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTCTAAACT AGTTTAGAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTAGGTGT ACACCTAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGTTTTAAT ATTAAAACAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTACTGTAC GTACAGTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGACACCTA TAGGTGTCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAGAAACTA TAGTTTCTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CATTTCATCT AGATGAAATG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAACTGCTT AAGCAGTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCTTTTCAC GTGAAAAGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTTTTCACT AGTGAAAAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome GGATTGGCTG CAGCCAATCC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCAATTGTT AACAATTGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCAATTGTTT AAACAATTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTGCAGT ACTGCAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGCAGTA TACTGCAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTAATTCTT AAGAATTACT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTCTTGGC GCCAAGAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCTTTGCAT ATGCAAAGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTATTAT ATAATAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTGTTACAA TTGTAACACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGTTACAAA TTTGTAACAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTACAAAC GTTTGTAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAACGTAAT ATTACGTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTATGTCTA TAGACATAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGTTAATTG CAATTAACAC
+ from Wuhan Reference is in Delta Variant
+Palindrome ACATTCTGTG CACAGAATGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CATTTATTAG CTAATAAATG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTCACTAC GTAGTGACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTCACTACA TGTAGTGACA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAGTTTAAA TTTAAACTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACAGTGAAG CTTCACTGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATGGTTCCA TGGAACCATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGGTTCCAT ATGGAACCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCATCTTTAC GTAAAGATGG
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTTTGATA TATCAAAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATAAAGCT AGCTTTATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGAAAGACA TGTCTTTCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAAAGACAT ATGTCTTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGATGGT ACCATCAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAAATCAGC GCTGATTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACTACAGT ACTGTAGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTACAGTCA TGACTGTAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCAGTTAAA TTTAACTGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAATGTTT AAACATTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCAACTTT AAAGTTGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCAACTTTT AAAAGTTGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAACGTACC GGTACGTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAATGGAAAA TTTTCCATTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TCAAAACACT AGTGTTTTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGCAAAGAA TTCTTTGCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTCAGCAG CTGCTGAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTAGAAACT AGTTTCTACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAGAAACTA TAGTTTCTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGAAACTAA TTAGTTTCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTTGTTGA TCAACAACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAATTGTC GACAATTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAATTGTCA TGACAATTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTACTGG CCAGTAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTACTGGC GCCAGTAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAAGTTGAA TTCAACTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAACATGAC GTCATGTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACATGACA TGTCATGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CATGACACCC GGGTGTCATG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGACACCCC GGGGTGTCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCAAAAAGTC GACTTTTTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAAAAGTCA TGACTTTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAAGTCAC GTGACTTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACATTGCT AGCAATGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTCATTGT ACAATGACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGAATAA TTATTCTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTACCTTT AAAGGTAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTACCTTTT AAAAGGTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACCTTTTA TAAAAGGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TACCTTTTAA TTAAAAGGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTTTTAAG CTTAAAAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTTTTAAGT ACTTAAAAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGACATGT ACATGTCAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome AGATAGCACT AGTGCTATCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTAAAGTT AACTTTAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTAAAGTTA TAACTTTAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTACACT AGTGTAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAATAACA TGTTATTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAACACCTGT ACAGGTGTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCATCTACA TGTAGATGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCATCTACAG CTGTAGATGC
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTTGTTTT AAAACAAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCTGATTTT AAAATCAGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCTGATTTTG CAAAATCAGC
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAAAGCTTG CAAGCTTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome GATTGCTGCA TGCAGCAATC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGTTGGTAA TTACCAACTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACATCTGTT AACAGATGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTACACAC GTGTGTAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACACCATCAA TTGATGGTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCATCAAAA TTTTGATGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGCAACAT ATGTTGCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACATCAGCTT AAGCTGATGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCAGCTTG CAAGCTGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCAGCTTGT ACAAGCTGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TCAGCTTGTG CACAAGCTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGGCTGCT AGCAGCCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGGCTGCTG CAGCAGCCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAGCCAGTA TACTGGCTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCATATTGT ACAATATGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCATATTGTT AACAATATGG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCTCATGGA TCCATGAGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCTCATGGAT ATCCATGAGC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGGCTCTAT ATAGAGCCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACCTTGAAG CTTCAAGGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGCTGGTGT ACACCAGCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAACAATGA TCATTGTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTCTGTGGT ACCACAGAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCATCTATA TATAGATGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCATCTATAG CTATAGATGC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATGAGGTT AACCTCATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGAGGTTT AAACCTCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGAGGTTTA TAAACCTCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCACTGTAC GTACAGTGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTATTCTGT ACAGAATAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACTTGTAC GTACAAGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTTGTACT AGTACAAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTGTACTT AAGTACAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGACATTTTA TAAAATGTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTCCACAAA TTTGTGGAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCCTTTAGTA TACTAAAGGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTTTGTTA TAACAAAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAATAAAGAA TTCTTTATTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAAGTATTT AAATACTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACTAGCT AGCTAGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACTAGCTA TAGCTAGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTAGCTAC GTAGCTAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTAGCTACA TGTAGCTAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCTGCTTGT ACAAGCAGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTCAGGTT AACCTGAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTCAGGTTC GAACCTGAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCAACCACCA TGGTGGTTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGAAAAATG CATTTTTCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAAAATGG CCATTTTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCTGGTAA TTACCAGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAAAGTTGA TCAACTTTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAGTTGAG CTCAACTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTACTCAT ATGAGTAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATCATAATT AATTATGATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCATAATTT AAATTATGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAAATTGTG CACAATTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTTGTTCG CGAACAAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACCAATGT ACATTGGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTTCACTA TAGTGAAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTGTCTCTT AAGAGACACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTCTTTTTG CAAAAAGAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAGGTAAC GTTACCTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTCTAACA TGTTAGAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTCTAACAC GTGTTAGAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTCTAACACA TGTGTTAGAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTTTTGAT ATCAAAAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTTTCCAA TTGGAAAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGAACAA TTGTTCTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTCACTTT AAAGTGAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGTATGAA TTCATACAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTATGAAA TTTCATACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAATGCCTT AAGGCATTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTGCTATGT ACATAGCAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTTTTTGT ACAAAAACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGTTACC GGTAACAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATTTTAATA TATTAAAATA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGACATGG CCATGTCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGACATGGT ACCATGTCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATATGGTTGA TCAACCATAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGGTTGAT ATCAACCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGACTGTGTT AACACAGTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATCAGCT AGCTGATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCATCAGCTG CAGCTGATGC
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAGCAAGAA TTCTTGCTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTGTTTCTT AAGAAACAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGATATATG CATATATCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACATTAAA TTTAATGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACATTAAAT ATTTAATGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTAAATTGT ACAATTTAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAATTGTTGG CCAACAATTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCAGTAGT ACTACTGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome AATCATCATC GATGATGATT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGCTAAAGA TCTTTAGCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGCAGCTTT AAAGCTGCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAGTCTTT AAAGACTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGTCTTTG CAAAGACTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGGAAAAGA TCTTTTCCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAATGTATAA TTATACATTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACAACATTA TAATGTTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATCAACAA TTGTTGATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGATGGTTGT ACAACCATCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACTAATGG CCATTAGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAGTAAAAT ATTTTACTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGTAAAATT AATTTTACTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTAGTATG CATACTAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCCTCTTATT AATAAGAGGC
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAGAATAAT ATTATTCTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTGCACTA TAGTGCAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTACTACAA TTGTAGTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTCCCTAAG CTTAGGGAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCCCTAAGA TCTTAGGGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTGGTACT AGTACCAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTGAAGTA TACTTCACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCTGGTAAT ATTACCAGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCTTACAAAG CTTTGTAAGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGGTACTGG CCAGTACCAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGGTACTGGT ACCAGTACCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGTTGTCTG CAGACAACAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTGTCTGT ACAGACAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGTCTGTA TACAGACAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTCTGTACT AGTACAGACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGCCACAT ATGTGGCAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCATCCAAA TTTGGATGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TCATCCAAAT ATTTGGATGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCCAAATC GATTTGGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAAGGTAA TTACCTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACACTTAAAA TTTTAAGTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAAAACAC GTGTTTTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AACACAGTCT AGACTGTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTGATCAAC GTTGATCACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAAGTGCAG CTGCACTTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAGTGCAGC GCTGCACTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTGATGTC GACATCAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAACTAAT ATTAGTTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCAAGAAAAG CTTTTCTTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTTATAAT ATTATAAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTATAATT AATTATAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAGAATAG CTATTCTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAGAATAGA TCTATTCTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGATGAA TTCATCAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGATGAAG CTTCATCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGTAATTGT ACAATTACCT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACATTAAAAG CTTTTAATGT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGTGATGA TCATCACAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTGATGAT ATCATCACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTATTTCAA TTGAAATAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTCAATAA TTATTGAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGATTTTG CAAAATCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCTTTGTTAA TTAACAAAGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTGTTAAA TTTAACAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGTTAAAA TTTTAACAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTAAAAAC GTTTTTAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTAAAAACA TGTTTTTAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TAATCAAGAT ATCTTGATTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTCACATGT ACATGTGACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTCACATGTT AACATGTGAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TCACATGTTG CAACATGTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTGACTTAA TTAAGTCAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAACAAAGC GCTTTGTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAAATATT AATATTTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAATATTG CAATATTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CACCCAAATT AATTTGGGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCAAACTTT AAAGTTTGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAGAGCTAG CTAGCTCTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAGAGCTAGG CCTAGCTCTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTACATAA TTATGTACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTACATAATC GATTATGTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CTATTACTAG CTAGTAATAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACGCACTAC GTAGTGCGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CACTACGTGC GCACGTAGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTAAAACA TGTTTTAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAAACACT AGTGTTTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAACACTT AAGTGTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTCTTCTTT AAAGAAGAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome AATCTACCAA TTGGTAGATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATATACAAAA TTTTGTATAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACGTAATG CATTACGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAATGAATC GATTCATTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAATGAATCT AGATTCATTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTCATCAAA TTTGATGAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAATTATTGA TCAATAATTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGTAGTAAT ATTACTACAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAATTGGAAC GTTCCAATTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTTAAAAA TTTTTAACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTAAAAACT AGTTTTTAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCTTAGAAT ATTCTAAGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCAAACATAC GTATGTTTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTCTATAGA TCTATAGAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTAAACCA TGGTTTAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTTTTAAC GTTAAAAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAACATTTG CAAATGTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAACATTTGT ACAAATGTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CGGCCAATGT ACATTGGCCG
+ from Wuhan Reference is in Delta Variant
+Palindrome GGCCAATGTT AACATTGGCC
+ from Wuhan Reference is in Delta Variant
+Palindrome AATGTTAATG CATTAACATT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCACTTTTAT ATAAAAGTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CACTTTTATC GATAAAAGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCTACTGAT ATCAGTAGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTACTGATG CATCAGTAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTACAACA TGTTGTAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACAACACAG CTGTGTTGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CACAGACTTT AAAGTCTGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAGACTTTA TAAAGTCTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGATACTCT AGAGTATCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAATAGCACT AGTGCTATTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCATAAAGA TCTTTATGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAAAGAACT AGTTCTTTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATCAAAAC GTTTTGATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATCAAAACA TGTTTTGATA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTCTGAAGC GCTTCAGACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTCTGAAGCA TGCTTCAGAC
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGCAAAAT ATTTTGCTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGGACTGAG CTCAGTCCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGGACTGAGA TCTCAGTCCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAATTTTGC GCAAAATTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTGCTCT AGAGCAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGCTCTC GAGAGCAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGCTCTCA TGAGAGCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGCTCTCAA TTGAGAGCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTAGATGA TCATCTACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATATCGTAAA TTTACGATAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGATGTCTT AAGACATCAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTTTCATTT AAATGAAAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTGTACTT AAGTACAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAAGAAAGC GCTTTCTTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGACATGTAT ATACATGTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTCACAGA TCTGTGAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTCACAGAC GTCTGTGAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCACAGACT AGTCTGTGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCACAGACTT AAGTCTGTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCATTAAGAT ATCTTAATGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACATCACA TGTGATGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTGATGTCA TGACATCACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATGTCACA TGTGACATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GATGTCACAG CTGTGACATC
+ from Wuhan Reference is in Delta Variant
+Palindrome CACATAAACC GGTTTATGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACACCTGTA TACAGGTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGCAGCAG CTGCTGCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAACAGTAA TTACTGTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTAGAATT AATTCTAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACACTCAA TTGAGTGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATCAAAAG CTTTTGATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCAAAAGGTT AACCTTTTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAGTCATTT AAATGACTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAGTCATTTT AAAATGACTC
+ from Wuhan Reference is in Delta Variant
+Palindrome CTATGTGAGA TCTCACATAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAAATATT AATATTTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAATATTT AAATATTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATACCTGCA TGCAGGTATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATACCTGCAC GTGCAGGTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTGCACGTG CACGTGCAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACATTAGAA TTCTAATGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACATTAGAAC GTTCTAATGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGAAATTTC GAAATTTCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACCTGCACC GGTGCAGGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTGCACCA TGGTGCAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome GGTTTATGAT ATCATAAACC
+ from Wuhan Reference is in Delta Variant
+Palindrome GATAATAAGC GCTTATTATC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAATAAGCT AGCTTATTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGACAAATC GATTTGTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATAGGCGTG CACGCCTATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTCACCTT AAGGTGAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTAATGTAA TTACATTACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAATGTTG CAACATTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAATGTTGC GCAACATTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAGTTGCAA TTGCAACTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAAGATTG CAATCTTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTTATGTGT ACACATAAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTTCTACA TGTAGAAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTCTACAG CTGTAGAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGTGAAAA TTTTCACAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATAGACGT ACGTCTATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GATAGACGTG CACGTCTATC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCTTTTCCA TGGAAAAGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTGTTGGCA TGCCAACAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGTTGGCAT ATGCCAACAG
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGGCATCA TGATGCCAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGGCATCAT ATGATGCCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTGGATTTG CAAATCCAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTTCAACA TGTTGAACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTGTGATG CATCACAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAAATTCCC GGGAATTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCTTATAAA TTTATAAGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGAAGAATT AATTCTTCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAATTCACAG CTGTGAATTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCCATTGTT AACAATGGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTGTTTGTA TACAAACAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTAAAACA TGTTTTAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTAGTGTCA TGACACTACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAGTGTCAG CTGACACTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAATTTAGGT ACCTAAATTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AATGAGTACA TGTACTCATT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACAAACAA TTGTTTGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTACAAGA TCTTGTAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTACAAGAC GTCTTGTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACAAGACT AGTCTTGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAAATGTGG CCACATTTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTTGAAAA TTTTCAAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATAAAACAA TTGTTTTATT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAACAACA TGTTGTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTATTGGTGT ACACCAATAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TATTGGTGTT AACACCAATA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCAGGAGTCA TGACTCCTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGGAGTCAA TTGACTCCTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGAGTCAAA TTTGACTCCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GGAGTCAAAT ATTTGACTCC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAATGGAAA TTTCCATTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome GATTTCTTAG CTAAGAAATC
+ from Wuhan Reference is in Delta Variant
+Palindrome TACATCTACT AGTAGATGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCGCAAACAG CTGTTTGCGC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTCTGTTA TAACAGAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTCTGTTAT ATAACAGAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGTTGAAA TTTCAACAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAATTTCA TGAAATTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAATTTCAT ATGAAATTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTAGCTGTA TACAGCTAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTCATTATTA TAATAATGAG
+ from Wuhan Reference is in Delta Variant
+Palindrome GACTCTAAAG CTTTAGAGTC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTGTGGGT ACCCACAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAACATTCT AGAATGTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACATTCTTGG CCAAGAATGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGAAGCATT AATGCTTCAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTTAATT AATTAAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CGCGAACAAA TTTGTTCGCG
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGAAGGT ACCTTCTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAGTGATGT ACATCACTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGTGATGTT AACATCACTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAATGTTTGT ACAAACATTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGACTTGTT AACAAGTCCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGGTTCCAT ATGGAACCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACATAATAAG CTTATTATGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAATTTAGT ACTAAATTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAGAACCA TGGTTCTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGCCAATA TATTGGCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGCCAATAG CTATTGGCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTGACTCC GGAGTCAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGACTCCT AGGAGTCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACAAAGTG CACTTTGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATCAGCAAC GTTGCTGATT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTGTGTTG CAACACAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGATTCATTT AAATGAATCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGATTGCT AGCAATCTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGATTGCTG CAGCAATCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTATAATTA TAATTATAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TATAATTACC GGTAATTATA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTCTTTTG CAAAAGAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTCTTTTGA TCAAAAGAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAAAAAGTC GACTTTTTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAAAGTCT AGACTTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAAATGTGT ACACATTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTTTTGGTG CACCAAAAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGGTGGTGT ACACCACCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTGTTATAA TTATAACACT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTCTAATA TATTAGAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCAGTGTCT AGACACTGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTTGCAAT ATTGCAACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTAAAGATT AATCTTTAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACAAAGTGA TCACTTTGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTCATCAAA TTTGATGAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAGAACCAA TTGGTTCTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GAGAACCAAA TTTGGTTCTC
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAACCAAAA TTTTGGTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAGACTCAC GTGAGTCTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTGCAAATT AATTTGCACT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTCAAAGTT AACTTTGAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTACTAAAAT ATTTTAGTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACACAGT ACTGTGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAGATAAAT ATTTATCTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCAAATTTG CAAATTTGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTGTTGTT AACAACAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGCTTTAG CTAAAGCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGCTTTAGT ACTAAAGCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGTGTAACT AGTTACACTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGTACTCAA TTGAGTACAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTTCATCTA TAGATGAAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CACACAATCG CGATTGTGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACACAATCGA TCGATTGTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome GCAATATTGT ACAATATTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CATAATTAAA TTTAATTATG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAATTAAAA TTTTAATTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGCTTATT AATAAGCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCTTTTGGT ACCAAAAGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTTTAAAAT ATTTTAAAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCTGTGTGGC GCCACACAGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAAGGTAAGA TCTTACCTTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TACGTGGCTTT AAAGCCACGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACATCTTAA TTAAGATGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome GCAAGGTTCTT AAGAACCTTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGAAATTA TAATTTCAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAAGCTTGA TCAAGCTTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTTAAAATT AATTTTAACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTCCAGCAT ATGCTGGACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCATTCTTC GAAGAATGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAAACTTAAA TTTAAGTTTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAACTTAAAG CTTTAAGTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAAGTGTGT ACACACTTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome GAGGAAGTTGT ACAACTTCCTC
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGATTTACAA TTGTAAATCAC
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACCATTAG CTAATGGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTCCATTGGTT AACCAATGGAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TCCATTGGTTG CAACCAATGGA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGTACTGT ACAGTACTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACAATACCT AGGTATTGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACAAGAGTG CACTCTTGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATACAGTTGAA TTCAACTGTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCTGTCATAA TTATGACAGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCTGAAGA TCTTCAGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCTGAAGAA TTCTTCAGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTGAAGAAG CTTCTTCAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTGAAGAAGA TCTTCTTCAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAGAGCAAG CTTGCTCTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAGATGATGA TCATCATCTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGATGATGAT ATCATCATCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCAAACAATT AATTGTTTGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTGTTCAGA TCTGAACAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGTTCAGAC GTCTGAACAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGTGAATAG CTATTCACTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTAAAAATGC GCATTTTTAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGGTAAAA TTTTACCTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAACCAACA TGTTGGTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTGAATCT AGATTCAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTGAATCTG CAGATTCAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGAATCTGA TCAGATTCAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TCTTCATGTTG CAACATGAAGA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGACATTCAA TTGAATGTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGACATTCAAC GTTGAATGTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTTGTGTAG CTACACAAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTGAAAAGCA TGCTTTTCACT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTGAACAA TTGTTCAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCATTTATAAC GTTATAAATGG
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAACCTTCAG CTGAAGGTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACCTTCAGT ACTGAAGGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCTTCAGTT AACTGAAGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAAACAAGA TCTTGTTTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGCTTGTGT ACACAAGCTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGCTTGTGTT AACACAAGCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGAAGAAGTT AACTTCTTCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAAGAAGTTA TAACTTCTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGAAGTTAC GTAACTTCTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGAAGTTACA TGTAACTTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAACTAAGT ACTTAGTTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome CACAGAAAACT AGTTTTCTGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACACTGTAGAG CTCTACAGTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGAGGGTGTG CACACCCTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTATCAACA TGTTGATAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTGGCTATGT ACATAGCCAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGCTACAGTT AACTGTAGCTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTATTGAAA TTTCAATAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTAGATGGTG CACCATCTAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACATTAAC GTTAATGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACCTCATAA TTATGAGGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGTAAAACAT ATGTTTTACCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAACATTTT AAAATGTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAACATTTTA TAAAATGTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAAGTGGAAA TTTCCACTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATTGTTAA TTAACAATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCATTGTTAAC GTTAACAATGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CATTGTTAACA TGTTAACAATG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTTTTGTGC GCACAAAAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTTTGTGCA TGCACAAAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTTGTGCAC GTGCACAAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGTAATAAGA TCTTATTACAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAATTTAAGA TCTTAAATTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAAGCTACAA TTGTAGCTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTCACCTTTT AAAAGGTGACT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATGTCAGCA TGCTGACATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GATGTCAGCAC GTGCTGACATC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGCACCACCT AGGTGGTGCTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTTGTGCTA TAGCACAAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCACTATAAAC GTTTATAGTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome CACTATAAACA TGTTTATAGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTTTCTACAA TTGTAGAAAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTCTACAAA TTTGTAGAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCATATCC GGATATGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCATATCCA TGGATATGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCATATCCAA TTGGATATGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCAAATTTGC GCAAATTTGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTGGTGGCT AGCCACCACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome GGCTATTGATT AATCAATAGCC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATAAACACT AGTGTTTATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATAAACACTA TAGTGTTTATA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATAAACCAAA TTTGGTTTATA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCAGTTGAAAC GTTTCAACTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome GATGTACTGAA TTCAGTACATC
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTGAAGTCA TGACTTCAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTTCTAAA TTTAGAAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTCTAAACT AGTTTAGAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCTTTTCACT AGTGAAAAGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCAATTGTTT AAACAATTGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTGCAGTA TACTGCAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTGTTACAAA TTTGTAACACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGTTACAAAC GTTTGTAACAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGTCACTACA TGTAGTGACAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATGGTTCCAT ATGGAACCATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGAAAGACAT ATGTCTTTCAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCAACTTTT AAAAGTTGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTAGAAACTA TAGTTTCTACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAGAAACTAA TTAGTTTCTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAATTGTCA TGACAATTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTACTGGC GCCAGTAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAACATGACA TGTCATGTTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CATGACACCCC GGGGTGTCATG
+ from Wuhan Reference is in Delta Variant
+Palindrome GCAAAAAGTCA TGACTTTTTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAAAAGTCAC GTGACTTTTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTACCTTTT AAAAGGTAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTACCTTTTA TAAAAGGTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACCTTTTAA TTAAAAGGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TACCTTTTAAG CTTAAAAGGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTTTTAAGT ACTTAAAAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCATCTACAG CTGTAGATGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACATCAGCTTG CAAGCTGATGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCAGCTTGT ACAAGCTGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCAGCTTGTG CACAAGCTGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGGCTGCTG CAGCAGCCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCATATTGTT AACAATATGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCTCATGGAT ATCCATGAGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGCATCTATAG CTATAGATGCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATGAGGTTT AAACCTCATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGAGGTTTA TAAACCTCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome TACTTGTACTT AAGTACAAGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACTAGCTA TAGCTAGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACTAGCTAC GTAGCTAGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTAGCTACA TGTAGCTAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTCAGGTTC GAACCTGAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAGAAAAATGG CCATTTTTCTA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAAAGTTGAG CTCAACTTTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome AATCATAATTT AAATTATGATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTCTAACAC GTGTTAGAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTCTAACACA TGTGTTAGAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGTATGAAA TTTCATACAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGACATGGT ACCATGTCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATATGGTTGAT ATCAACCATAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATCAGCTG CAGCTGATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACATTAAAT ATTTAATGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAGTCTTTG CAAAGACTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATAGTAAAATT AATTTTACTAT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTCCCTAAGA TCTTAGGGAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTGGTACTGGT ACCAGTACCAG
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGTTGTCTGT ACAGACAACAC
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTGTCTGTA TACAGACAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCATCCAAAT ATTTGGATGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TCATCCAAATC GATTTGGATGA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTAAGTGCAGC GCTGCACTTAC
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTTATAATT AATTATAAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAGAATAGA TCTATTCTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGTGATGAT ATCATCACAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTGTTAAAA TTTTAACAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTAAAAACA TGTTTTTAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTCACATGTT AACATGTGACT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTCACATGTTG CAACATGTGAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTAACAAAGC GCTTTGTTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGTTAAAAT ATTTTAACAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAAATATTG CAATATTTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAGAGCTAGG CCTAGCTCTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAAACACTT AAGTGTTTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAAATGAATCT AGATTCATTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ATGTTAAAAAC GTTTTTAACAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAACATTTGT ACAAATGTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CGGCCAATGTT AACATTGGCCG
+ from Wuhan Reference is in Delta Variant
+Palindrome GCACTTTTATC GATAAAAGTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCTACTGATG CATCAGTAGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome CACAGACTTTA TAAAGTCTGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATCAAAACA TGTTTTGATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTCTGAAGCA TGCTTCAGACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGGACTGAGA TCTCAGTCCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTGCTCTC GAGAGCAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGCTCTCA TGAGAGCAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGCTCTCAA TTGAGAGCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTCACAGAC GTCTGTGAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTCACAGACT AGTCTGTGAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTCACAGACTT AAGTCTGTGAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATGTCACAG CTGTGACATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TAACACCTGTA TACAGGTGTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAGTCATTTT AAAATGACTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAAAATATTT AAATATTTTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TATACCTGCAC GTGCAGGTATA
+ from Wuhan Reference is in Delta Variant
+Palindrome AACATTAGAAC GTTCTAATGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TACCTGCACCA TGGTGCAGGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTAATGTTGC GCAACATTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTTCTACAG CTGTAGAAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATAGACGTG CACGTCTATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCTGTTGGCAT ATGCCAACAGG
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTGGCATCAT ATGATGCCAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome AAATTCACAGA TCTGTGAATTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTAGTGTCAG CTGACACTACT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTACAAGAC GTCTTGTAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTACAAGACT AGTCTTGTAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CTATTGGTGTT AACACCAATAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CCAGGAGTCAA TTGACTCCTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGGAGTCAAA TTTGACTCCTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AGGAGTCAAAT ATTTGACTCCT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTTCTGTTAT ATAACAGAACA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGAAATTTCAT ATGAAATTTCT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAGTGATGTT AACATCACTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTGCCAATAG CTATTGGCAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTGACTCCT AGGAGTCAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGATTGCTG CAGCAATCTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTTCTTTTGA TCAAAAGAAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAAAAAGTCT AGACTTTTTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAGAACCAAA TTTGGTTCTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GAGAACCAAAA TTTTGGTTCTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TATGCTTTAGT ACTAAAGCATA
+ from Wuhan Reference is in Delta Variant
+Palindrome CACACAATCGA TCGATTGTGTG
+ from Wuhan Reference is in Delta Variant
+Palindrome CATAATTAAAA TTTTAATTATG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTAAACTTAAAG CTTTAAGTTTAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CTCCATTGGTTG CAACCAATGGAG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCTGAAGAA TTCTTCAGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCTGAAGAAG CTTCTTCAGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTGAAGAAGA TCTTCTTCAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTAGATGATGAT ATCATCATCTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTGTTCAGAC GTCTGAACAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGTTGAATCTG CAGATTCAACTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTTGAATCTGA TCAGATTCAACT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAGACATTCAAC GTTGAATGTCTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAACCTTCAGT ACTGAAGGTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome AAACCTTCAGTT AACTGAAGGTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome AAAGCTTGTGTT AACACAAGCTTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGAAGAAGTTA TAACTTCTTCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAAGAAGTTAC GTAACTTCTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GAAGAAGTTACA TGTAACTTCTTC
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAAACATTTTA TAAAATGTTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATTGTTAAC GTTAACAATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCATTGTTAACA TGTTAACAATGC
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTTTTGTGCA TGCACAAAAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTTTGTGCAC GTGCACAAAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome TGATGTCAGCAC GTGCTGACATCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TCACTATAAACA TGTTTATAGTGA
+ from Wuhan Reference is in Delta Variant
+Palindrome GTTTTCTACAAA TTTGTAGAAAAC
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCATATCCA TGGATATGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCATATCCAA TTGGATATGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATAAACACTA TAGTGTTTATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTGTTACAAAC GTTTGTAACACA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGTAGAAACTAA TTAGTTTCTACA
+ from Wuhan Reference is in Delta Variant
+Palindrome GCAAAAAGTCAC GTGACTTTTTGC
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTACCTTTTA TAAAAGGTAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTACCTTTTAA TTAAAAGGTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACCTTTTAAG CTTAAAAGGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TACCTTTTAAGT ACTTAAAAGGTA
+ from Wuhan Reference is in Delta Variant
+Palindrome CATCAGCTTGTG CACAAGCTGATG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTATGAGGTTTA TAAACCTCATAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACTAGCTAC GTAGCTAGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACTAGCTACA TGTAGCTAGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACCTCTAACACA TGTGTTAGAGGT
+ from Wuhan Reference is in Delta Variant
+Palindrome GTGTTGTCTGTA TACAGACAACAC
+ from Wuhan Reference is in Delta Variant
+Palindrome ATCATCCAAATC GATTTGGATGAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AGTCACATGTTG CAACATGTGACT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTGCTCTCA TGAGAGCAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTGCTCTCAA TTGAGAGCAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTCACAGACT AGTCTGTGAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTCACAGACTT AAGTCTGTGAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome TTTTACAAGACT AGTCTTGTAAAA
+ from Wuhan Reference is in Delta Variant
+Palindrome CCAGGAGTCAAA TTTGACTCCTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAGGAGTCAAAT ATTTGACTCCTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAGAACCAAAA TTTTGGTTCTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCTGAAGAAG CTTCTTCAGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome AACCTGAAGAAGA TCTTCTTCAGGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome TAAACCTTCAGTT AACTGAAGGTTTA
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGAAGAAGTTAC GTAACTTCTTCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGAAGAAGTTACA TGTAACTTCTTCA
+ from Wuhan Reference is in Delta Variant
+Palindrome TGCATTGTTAACA TGTTAACAATGCA
+ from Wuhan Reference is in Delta Variant
+Palindrome AACTTTTGTGCAC GTGCACAAAAGTT
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCATATCCAA TTGGATATGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTACCTTTTAA TTAAAAGGTAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTACCTTTTAAG CTTAAAAGGTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTACCTTTTAAGT ACTTAAAAGGTAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACAACTAGCTACA TGTAGCTAGTTGT
+ from Wuhan Reference is in Delta Variant
+Palindrome ATTTTGCTCTCAA TTGAGAGCAAAAT
+ from Wuhan Reference is in Delta Variant
+Palindrome AATTCACAGACTT AAGTCTGTGAATT
+ from Wuhan Reference is in Delta Variant
+Palindrome CCAGGAGTCAAAT ATTTGACTCCTGG
+ from Wuhan Reference is in Delta Variant
+Palindrome CAACCTGAAGAAGA TCTTCTTCAGGTTG
+ from Wuhan Reference is in Delta Variant
+Palindrome TTGAAGAAGTTACA TGTAACTTCTTCAA
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTACCTTTTAAG CTTAAAAGGTAAGT
+ from Wuhan Reference is in Delta Variant
+Palindrome CTTACCTTTTAAGT ACTTAAAAGGTAAG
+ from Wuhan Reference is in Delta Variant
+Palindrome ACTTACCTTTTAAGT ACTTAAAAGGTAAGT
+ from Wuhan Reference is in Delta Variant
+Total number of palindromes found in common: 1132
