@@ -107,16 +107,6 @@ class VerticalScrolledFrame:
 
 frame_2 = VerticalScrolledFrame(root, height=500, bg='white')
 
-#frame_2 = tk.Frame(root, height=500, relief = 'sunken', bg =  'white', highlightbackground='BLACK')
-#frame_2.pack(side='right')
-#v = Scrollbar(frame_1, orient='vertical')
-#v.pack(side = RIGHT, fill = Y)
-#root.geometry("1000x500")
-#dna_file = open("Test.txt", "r")
-#content = dna_file.read()
-#content = content.replace(' ', '')
-#content = content.upper()
-
 
 
 def comp(current):
@@ -161,15 +151,15 @@ def look_for_matches(current_comp_reverse, working_content, current_start_index,
             working_content = skip_all(working_content, regex.span()[1])
             removed_char += regex.span()[1]
             
-            
-            file = open(path_name, "a")
-            #file.write(f"From {current_start_index} to {current_end_index} ({comp(reverse_comp(current_comp_reverse))})\n")
-            #file.write(f"Found in {palindrome_start_index} to {palindrome_end_index} ({current_comp_reverse})\n")
-            #file.write('- - - - - - - - - - - - - - -\n')
-            file.write(comp(reverse_comp(current_comp_reverse)))
-            file.write(" " + current_comp_reverse)
-            file.write("\n")
-            file.close()
+            if checkbox_value.get()  == True:
+                file = open(path_name, "a")
+                #file.write(f"From {current_start_index} to {current_end_index} ({comp(reverse_comp(current_comp_reverse))})\n")
+                #file.write(f"Found in {palindrome_start_index} to {palindrome_end_index} ({current_comp_reverse})\n")
+                #file.write('- - - - - - - - - - - - - - -\n')
+                file.write(comp(reverse_comp(current_comp_reverse)))
+                file.write(" " + current_comp_reverse)
+                file.write("\n")
+                file.close()
             lab = tk.Label(frame_2,text=f"From {current_start_index} to {current_end_index} ({comp(reverse_comp(current_comp_reverse))})", bg =  'white')
             lab2 = tk.Label(frame_2, text = f"Found in {palindrome_start_index} to {palindrome_end_index} ({current_comp_reverse})",bg =  'white')
             lab3 = tk.Label(frame_2, text = '- - - - - - - - - - - - - - -', bg =  'white')
@@ -230,9 +220,6 @@ def run():
 
 
 text_input = scrolledtext.ScrolledText(frame_1, width = 400, height = 150)
-#entry1_var = tk.StringVar()
-#entry1 = ttk.Entry(frame_1, background= '#aed6f1')
-#textwidget = tk.Text(frame_1, background= 'white')
 text_input.place(x=50, y=80, width=400, height=150)
 
 entry2 = ttk.Entry(frame_1, background= '#aed6f1')
@@ -241,7 +228,11 @@ entry3 = ttk.Entry(frame_1, background= '#aed6f1')
 label_seq = tk.Label(frame_1, text = "Insert here a DNA Sequence:")
 label_seq.config(font=('helvetica', 16), bg= '#aed6f1')
 label_seq.place(x=150, y=50)
-#entry1.place(x=50, y=80, width=400, height=150)
+checkbox_value = tk.BooleanVar()
+checkbox = Checkbutton(frame_1, text="Save?", variable=checkbox_value, background= '#aed6f1')
+#checkbox.config(background='#aed6f1')
+checkbox.place(x=50, y=50)
+
 
 label_len = tk.Label(frame_1, text = "Insert here the length of palindrome:")
 label_len.config(font=('helvetica', 16), bg= '#aed6f1')
